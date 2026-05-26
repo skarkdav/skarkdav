@@ -1,6 +1,6 @@
 ## Hi there, I'm [David Skarka]
 
-###  Junior DevOps, IT consultant, Infa Administrator working with GCP. 
+###  Junior DevOps, IT consultant, Infra Administrator working with GCP. 
 ### Connect With Me: 
 [<img align="left" alt="David Skarka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 

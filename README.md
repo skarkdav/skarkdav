@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm [David Skarka]
 
-<!--
-**skarkdav/skarkdav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Junior DevOps, IT consultant, Infa Administrator working with GCP. 
+### Connect With Me: 
+[<img align="left" alt="David Skarka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![skarkdav GitHub stats](https://github-readme-stats.vercel.app/api?username=skarkdav)](https://github.com/skarkdav/github-readme-stats)
+
+---
+
+[linkedin]: https://www.linkedin.com/in/david-skarka-59b881290/

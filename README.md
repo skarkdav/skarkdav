@@ -7,7 +7,7 @@
 <br />
 
 ---
-[![skarkdav GitHub stats](https://readme-stats-iota-pied.vercel.app/api?username=skarkdav&count_private=true&show_icons=true&theme=tokyonight)
+![skarkdav GitHub stats](https://readme-stats-iota-pied.vercel.app/api?username=skarkdav&count_private=true&show_icons=true&theme=tokyonight)
 
 ---
 
